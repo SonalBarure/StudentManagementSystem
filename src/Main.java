@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
+
+    //Disclaimer: This project includes code generated with the assistance of ChatGPT (OpenAI) for learning and development purposes.
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StudentManagement sm = new StudentManagement();
