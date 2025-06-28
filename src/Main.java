@@ -10,6 +10,8 @@ public class Main {
         int choice;
 
         do {
+            System.out.println("Welcome................\n");
+
             System.out.println("\n=== Student Management System ===");
             System.out.println("1. Add Student");
             System.out.println("2. View All Students");
